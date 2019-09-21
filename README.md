@@ -1,2 +1,1 @@
-# ngdl.github.io
-Hi!
+# Hi!
